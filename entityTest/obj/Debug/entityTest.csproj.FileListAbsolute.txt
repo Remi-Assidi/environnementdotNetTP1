@@ -1,0 +1,14 @@
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\entityTest.exe.config
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\entityTest.exe
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\entityTest.pdb
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\EntityFramework.dll
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\EntityFramework.xml
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\obj\Debug\entityTest.csprojAssemblyReference.cache
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\obj\Debug\entityTest.csproj.CoreCompileInputs.cache
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\obj\Debug\entityTest.csproj.CopyComplete
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\obj\Debug\entityTest.exe
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\obj\Debug\entityTest.pdb
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Remi\Desktop\B3\dotNet\entityTest\entityTest\bin\Debug\Newtonsoft.Json.xml
