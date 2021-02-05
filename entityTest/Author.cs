@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TP1
 {
-    [Table("Author")]
+    [Table("author")]
     public class Author
     {
         [Key]
