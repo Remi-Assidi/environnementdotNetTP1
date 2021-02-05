@@ -11,6 +11,8 @@ namespace entityTest
     public class MyBdContext : DbContext
     {
         public DbSet<Book> Books { get; set; }
+        public DbSet<Author> Authors { get; set; }
+
 
         public MyBdContext()
         {
@@ -24,5 +26,12 @@ namespace entityTest
                 this.SaveChanges();
             }
         }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder) {
+            //modelBuilder.Entity<Author>().HasMany(x => x.Autor).WithMany();
+            //modelBuilder.Entity<User>().HasKey(x => x.Superior);
+            //modelBuilder.Entity<User>().HasRequired(x => x.Superior).WithRequiredPrincipal();
+        }
+
     }
 }
